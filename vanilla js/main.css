@@ -1,0 +1,16 @@
+body{
+    width: 80%;
+    margin: 2em auto 0 auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.images{
+    column-count:3;
+    margin: 10px;
+}
