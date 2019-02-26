@@ -22,9 +22,9 @@
 ## React.js
 ---
 
-* [] Add search form to page
-* [] Update state when input changes
-* [] Make API Request with search term when form is submitted
+* [x] Add search form to page
+* [x] Update state when input changes
+* [x] Make API Request with search term when form is submitted
 * [] Show loading image
 * [] Append Results to the page
 * [] Hide loading image
