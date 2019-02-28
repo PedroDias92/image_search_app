@@ -1,8 +1,9 @@
 # Build an Image Search App with:
 ## Vanilla JS, React.js, Angular 6 and Vue.js
 
-https://vanillajs-3j7pe4r0o.now.sh
-https://react-image-search-nnl5ipfyh.now.sh
+* https://vanillajs-3j7pe4r0o.now.sh
+* https://react-image-search-nnl5ipfyh.now.sh
+* https://vue-image-search-3ppe0716t.now.sh
 
 
 #### This app demonstrates:
